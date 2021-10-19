@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generixcloud-api/generixcloud-api.iml" filepath="$PROJECT_DIR$/generixcloud-api/generixcloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generixcloud-bootstrap/generixcloud-bootstrap.iml" filepath="$PROJECT_DIR$/generixcloud-bootstrap/generixcloud-bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generixcloud-master/generixcloud-master.iml" filepath="$PROJECT_DIR$/generixcloud-master/generixcloud-master.iml" />
+    </modules>
+  </component>
+</project>
